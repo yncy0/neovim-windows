@@ -30,5 +30,5 @@ cd AppData/Local
 ```
 Clone the repo
 ```
-git clone https://github.com/yncy0/neovim-windows.git
+git clone https://github.com/yncy0/neovim-windows.git nvim
 ```
